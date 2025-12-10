@@ -59,7 +59,6 @@ This project was created without writing traditional boilerplate code. Using **G
 <p align="center">
   <img src="screen shot.png" alt="CivilAI Sentinel Dashboard" width="700">
 </p>
----
 
 ## 🏆 Hackathon Submission
 This project is a submission for the **Google DeepMind - Vibe Code with Gemini 3 Pro** competition.
