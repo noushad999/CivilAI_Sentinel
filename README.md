@@ -1,3 +1,8 @@
+About
+# 🏗️ CivilAI Sentinel: The AI Forensic Structural Engineer [![Gemini 3 Pro](https://img.shields.io/badge/AI-Gemini%203%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/) [![Vibe Coding](https://img.shields.io/badge/Built%20With-Vibe%20Coding-FF6C37?style=for-the-badge)](https://aistudio.go
+
+Resources
+ Readme
 # 🏗️ CivilAI Sentinel: The AI Forensic Structural Engineer
 
 [![Gemini 3 Pro](https://img.shields.io/badge/AI-Gemini%203%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
