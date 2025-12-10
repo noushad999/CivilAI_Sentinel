@@ -56,8 +56,9 @@ This project was created without writing traditional boilerplate code. Using **G
 ---
 
 ## 📸 Screenshots
-*(Add your screenshots here)*
-
+<p align="center">
+  <img src="screen shot.png" alt="CivilAI Sentinel Dashboard" width="700">
+</p>
 ---
 
 ## 🏆 Hackathon Submission
