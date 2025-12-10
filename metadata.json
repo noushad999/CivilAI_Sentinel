@@ -1,0 +1,7 @@
+{
+  "name": "CivilAI Sentinel",
+  "description": "A cyber-industrial AI dashboard for structural forensic analysis using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
